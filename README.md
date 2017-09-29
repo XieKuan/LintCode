@@ -1,0 +1,2 @@
+主要保存一些coding的心得，刷题刷起来
+计划每天一道LintCode，语言主要以Python为主。
